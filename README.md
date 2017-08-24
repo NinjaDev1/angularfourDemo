@@ -1,2 +1,2 @@
-# angularfourDemo
-Demo project for backend laravel and front end angular 4
+# ng4-laravel-demo
+Demo Project Using Laravel as Backend and Angular 4 as Frontend.
